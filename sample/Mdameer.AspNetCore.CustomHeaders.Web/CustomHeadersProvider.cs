@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Primitives;
+﻿using System.Collections.Generic;
+using Microsoft.Extensions.Primitives;
 
 namespace Mdameer.AspNetCore.CustomHeaders.Web
 {

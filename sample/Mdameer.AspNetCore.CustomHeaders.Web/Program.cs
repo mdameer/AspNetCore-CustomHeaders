@@ -1,4 +1,7 @@
 using Mdameer.AspNetCore.CustomHeaders.Web;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 
 namespace Mdameer.AspNetCore.CustomHeaders.Sample
 {
