@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Mdameer.AspNetCore.CustomHeaders;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
