@@ -13,5 +13,5 @@ PM> Install-Package Mdameer.AspNetCore.CustomHeaders
 Or using the `dotnet` CLI
 
 ```bash
-dotnet package add Install-Package Mdameer.AspNetCore.CustomHeaders
+dotnet add package Mdameer.AspNetCore.CustomHeaders
 ```
